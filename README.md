@@ -3,23 +3,22 @@ This document outlines the design, functionalities, and implementation details f
 software application that analyzes a user's GitHub profile, suggests improvements, and 
 provides company recommendations based on the user's tech stack. 
 ## Table of Contents 
-●  Introduction 
-
-●  Functionalities 
-●  Profile Information 
-●  Repository Information and Most Used Tech Stack 
-●  Daily Contributions and Maintained Streak 
-●  Profile Improvement Tips 
-●  Rating 
-●  Company Recommendations 
-●  Data Acquisition 
-●  Tools and Technology 
-●  Legal and Ethical Considerations 
-●  Scalability and Performance 
-●  Continual Improvement 
-●  Security Measures 
-●  Authentication and Authorization 
-●  Conclusion 
+1)  Introduction 
+2)  Functionalities 
+    ●  Profile Information 
+    ●  Repository Information and Most Used Tech Stack 
+    ●  Daily Contributions and Maintained Streak 
+    ●  Profile Improvement Tips 
+    ●  Rating 
+    ●  Company Recommendations 
+3)  Data Acquisition 
+4)  Tools and Technology 
+5)  Legal and Ethical Considerations 
+6)  Scalability and Performance 
+7)  Continual Improvement 
+8)  Security Measures 
+9)  Authentication and Authorization 
+10)  Conclusion 
 ### 1. Introduction 
 A well-optimized GitHub profile is essential for developers to showcase their skills and 
 attract potential employers or collaborators. This software helps users by analyzing 
