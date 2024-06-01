@@ -4,6 +4,7 @@ software application that analyzes a user's GitHub profile, suggests improvement
 provides company recommendations based on the user's tech stack. 
 ## Table of Contents 
 ●  Introduction 
+
 ●  Functionalities 
 ●  Profile Information 
 ●  Repository Information and Most Used Tech Stack 
