@@ -46,20 +46,20 @@ Purpose: Recommend companies to the user based on their top tech stacks.
 Method: GitHub API using authenticated GET requests. 
 Data: User profiles, repositories, events. 
 ### 4. Tools and Technology 
-●  GitHub AP  I : Used to fetch profile information, repositories, events, and other 
+1)  GitHub AP  I : Used to fetch profile information, repositories, events, and other 
 relevant data. 
-●  Requests Library  : Used to make HTTP requests to the GitHub API. 
-●  Collections Module  : Specifically, the  Counter  class is used to count the 
+2)  Requests Library  : Used to make HTTP requests to the GitHub API. 
+3)  Collections Module  : Specifically, the  Counter  class is used to count the 
 occurrences of different tech stacks. 
-●  Base64 Module  : Used to decode file content fetched from the GitHub repositories. 
-●  JSON Module  : Used to parse JSON data. 
-●  XML Module  (ElementTree): Used to parse  pom.xml  files for Java dependencies. 
-●  Datetime Module  : Used to handle date and time operations. 
-●  BeautifulSoup: Used for parsing HTML (imported but not directly used in the 
+4)  Base64 Module  : Used to decode file content fetched from the GitHub repositories. 
+5)  JSON Module  : Used to parse JSON data. 
+6)  XML Module  (ElementTree): Used to parse  pom.xml  files for Java dependencies. 
+7)  Datetime Module  : Used to handle date and time operations. 
+8)  BeautifulSoup: Used for parsing HTML (imported but not directly used in the 
 provided snippets). 
 ### 5. Legal and Ethical Considerations 
-●  Compliance: GitHub API usage policies. 
-●  Data Handling: Responsible management of user data. 
+9)  Compliance: GitHub API usage policies. 
+10)  Data Handling: Responsible management of user data. 
 ### 6. Scalability and Performance 
 Optimization: Efficient API requests and data processing. 
 ### 7. Continual Improvement 
